@@ -1,0 +1,43 @@
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Archivos de entornos de desarrollo/IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Dependencias (node_modules, por ejemplo)
+node_modules/
+
+# Archivos compilados o de build
+dist/
+build/
+*.class
+*.exe
+*.dll
+
+# Logs
+*.log
+npm-debug.log*
+
+# Variables de entorno
+.env
+.env.local
+
+# Archivos temporales
+*.tmp
+*.temp
+
+# Archivos de sistema (Windows)
+ehthumbs.db
+Desktop.ini
+
+# Archivos de usuario (macOS)
+*.DS_Store?
+._*
+
+# Archivos de respaldo
+*.bak
+*.backup
